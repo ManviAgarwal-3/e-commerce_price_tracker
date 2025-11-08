@@ -1,0 +1,81 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_selectedProduct",
+      "DisplayName": "in_selectedProduct",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_thresholdPrice",
+      "DisplayName": "in_thresholdPrice",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "90000",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_productName",
+      "DisplayName": "in_productName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "iphone 15",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_productURL",
+      "DisplayName": "in_productURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_3?crid=2VQVO20WYR7O7&dib=eyJ2IjoiMSJ9.8-aKrERwPzdGyJWfWOa56Hr8nI7Bgf5A78v4HWCTUBhhDPQn-fIYfKJxxKAv6p4v-rFk58HVcBYHNhj9jg5iOAyUMKB6IXW43PTJF5S_Zx7NZc738pYTSkp9N5JmkPR1vyu2z7pUwDHqJeRxMrKonBql2SKn0TIu-a_D1V4QIwB3JYpPvTEsqdAReaxXkQW9EF3L_-qjoa49eUO_kPR64f9BcZEQ5ERBKIYQGTm_UuU.6Nk-lk3FL3FQHhWd_EGHhOqGWTS4aG8Mdd2IUDe4fas&dib_tag=se&keywords=iphone+15&qid=1734585778&sprefix=iphone+15%2Caps%2C300&sr=8-3\n",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_userMailId",
+      "DisplayName": "in_userMailId",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "guhanaein1@gmail.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "extractDataTable",
+      "DisplayName": "extractDataTable",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
